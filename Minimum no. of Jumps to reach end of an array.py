@@ -21,7 +21,7 @@ class Solution:
 	            
 	            '''
 	            
-	        if i==farthest and arr[i]==0:   
+	        if i==farthest and arr[i]==0:   # you reached the farthest possible element and it's a dead end
 	            return -1
 	    return jumps
 	        
